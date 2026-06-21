@@ -1,0 +1,19 @@
+# User content (runtime, not part of repo)
+inputs/
+outputs/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
